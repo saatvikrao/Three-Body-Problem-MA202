@@ -2,8 +2,10 @@
 The project aims towards developing a computer simulation for a three-body system while touching upon a few core concepts of gravitation and numerical methods to solve equations that describe the system.
 
 
-### * * Abstract
-Our solar system consists of only one major star (the sun). Even if the number of stars is increased to two, the system remains stable. The orbit of the star is predictable as there exists an analytical solution meaning we can solve the equations defining it and derive a function that precisely predicts the system's time evolution. However, when a third body is introduced into the system, something unexpected happens. The dynamical system descends into chaos and uncertainty as there is no analytical solution and can only be solved numerically on a computer. * * 
+
+
+### Abstract
+Our solar system consists of only one major star (the sun). Even if the number of stars is increased to two, the system remains stable. The orbit of the star is predictable as there exists an analytical solution meaning we can solve the equations defining it and derive a function that precisely predicts the system's time evolution. However, when a third body is introduced into the system, something unexpected happens. The dynamical system descends into chaos and uncertainty as there is no analytical solution and can only be solved numerically on a computer. 
 
 
 ### Overview of the Project 

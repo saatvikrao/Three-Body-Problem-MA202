@@ -1,6 +1,8 @@
 # Three-Body-Problem-MA202
 
-Contributors : Kalash Kankaria, Inderjeet Bulhara, 
+## Contributors : Inderjeet Singh Bhullar, Kalash Kankaria, Lipika Rajpal, Nokzendi S Aier, Saatvik Rao
+
+
 The project aims towards developing a computer simulation for a three-body system while touching upon a few core concepts of gravitation and numerical methods to solve equations that describe the system.
 
 

@@ -20,3 +20,5 @@ The project aims towards developing a computer simulation for a three-body syste
 
 
 2D Simulation - https://drive.google.com/file/d/1UQKuVKtqxNhFhCMV3iI3jCDfxm1__bhS/view?usp=sharing
+
+Presentation Slides - https://www.canva.com/design/DAE-upBlyX8/wcGd3GBChXqHHJ4nQ3wzMQ/view?utm_content=DAE-upBlyX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

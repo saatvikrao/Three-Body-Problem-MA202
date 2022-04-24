@@ -16,4 +16,4 @@ The three-body problem is a special case of the n-body problem. Unlike the two-b
 The project aims towards developing a computer simulation for a three-body system. We would like to touch upon a few core concepts of gravitation that are necessary to comprehend the problem. As the resulting system is chaotic for most of the initial conditions, we require the numerical methods for solving the equations that describe the system.
 
 
-
+3D Simulation - https://drive.google.com/file/d/1oDGe_7hd9LGcF9VmNoLiqp2B1Ote8gWH/view?usp=sharing
